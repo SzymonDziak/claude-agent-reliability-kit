@@ -1,0 +1,7 @@
+Subject: Medical expense reimbursement
+Name: Robin Petrov
+Policy: POL-99999
+Date: 2026-07-30
+Type: health
+Amount: 640.00
+Summary: Out-of-network physiotherapy sessions after a sports injury. Receipts attached.

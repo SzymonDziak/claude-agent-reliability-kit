@@ -1,0 +1,7 @@
+Subject: Brake failure accident
+Name: Tomas Lindqvist
+Policy: POL-30955
+Date: 2026-09-20
+Type: auto
+Amount: $1,800
+Summary: Brake failure caused a low-speed collision with a parked car in a supermarket car park.
